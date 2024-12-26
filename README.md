@@ -1,4 +1,3 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tred-07&" alt="tred-07" /></p>
 # Hello, I'm tred-07! 👋
 
 Welcome to my GitHub profile! I'm a passionate programmer and developer always eager to learn new technologies and improve my skills. Here's a bit more about me:
@@ -32,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate programmer and developer always e
 ## 📈 GitHub Stats
 
 ![tred-07's GitHub stats](https://github-readme-stats.vercel.app/api?username=tred-07&show_icons=true&theme=radical)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tred-07&" alt="tred-07" /></p>
 ## 🤝 Let's Connect
 
 - [LinkedIn](Your LinkedIn URL)
