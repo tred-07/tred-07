@@ -34,6 +34,8 @@ Welcome to my GitHub profile! I'm a passionate programmer and developer always e
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tred-07&" alt="tred-07" /></p>
 ## 🤝 Let's Connect
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tred-07l&layout=compact&theme=radical)
+
 - [LinkedIn](Your LinkedIn URL)
 - [Twitter](Your Twitter URL)
 - [Personal Website/Blog](Your Website URL)
