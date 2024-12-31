@@ -32,10 +32,13 @@ Welcome to my GitHub profile! I'm a passionate programmer and developer always e
 
 ![tred-07's GitHub stats](https://github-readme-stats.vercel.app/api?username=tred-07&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tred-07&" alt="tred-07" /></p>
-## 🤝 Let's Connect
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tred-07&layout=compact&theme=radical)
 
+
+## 🤝 Let's Connect
 - [LinkedIn](Your LinkedIn URL)
 - [Twitter](Your Twitter URL)
 - [Personal Website/Blog](Your Website URL)
